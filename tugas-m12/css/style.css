@@ -1,0 +1,9 @@
+.btn-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-group a {
+    flex: 1;
+    margin-right: 5px; /* Spasi antara tombol */
+}
